@@ -9,4 +9,5 @@ export function LatestPost() {
 
 
   const utils = api.useUtils();
+  const [name, setName] = useState("");
   
