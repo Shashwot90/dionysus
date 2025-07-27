@@ -7,3 +7,6 @@ import { api } from "@/trpc/react";
 export function LatestPost() {
   const [latestPost] = api.post.getLatest.useSuspenseQuery();
 
+
+  const utils = api.useUtils();
+  
