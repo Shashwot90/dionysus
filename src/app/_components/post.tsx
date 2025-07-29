@@ -12,3 +12,4 @@ export function LatestPost() {
   const [name, setName] = useState("");
   const createPost = api.post.create.useMutation({
     onSuccess: async () => {
+      await utils.post.invalidate();
