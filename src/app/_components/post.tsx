@@ -14,3 +14,7 @@ export function LatestPost() {
     onSuccess: async () => {
       await utils.post.invalidate();
       setName("");
+    },
+  });
+
+  
