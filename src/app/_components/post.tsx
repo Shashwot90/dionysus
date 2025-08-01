@@ -20,4 +20,4 @@ export function LatestPost() {
   return (
     <div className="w-full max-w-xs">
       {latestPost ? (
-      
+        <p className="truncate">Your most recent post: {latestPost.name}</p>
