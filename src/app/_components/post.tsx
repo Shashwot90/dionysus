@@ -28,3 +28,4 @@ export function LatestPost() {
         onSubmit={(e) => {
           e.preventDefault();
           createPost.mutate({ name });
+        }}
