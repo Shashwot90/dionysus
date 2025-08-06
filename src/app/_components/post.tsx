@@ -30,4 +30,3 @@ export function LatestPost() {
           createPost.mutate({ name });
         }}
         className="flex flex-col gap-2"
-      
