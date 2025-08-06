@@ -29,3 +29,5 @@ export function LatestPost() {
           e.preventDefault();
           createPost.mutate({ name });
         }}
+        className="flex flex-col gap-2"
+      
