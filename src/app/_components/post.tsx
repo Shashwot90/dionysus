@@ -32,4 +32,4 @@ export function LatestPost() {
         className="flex flex-col gap-2"
       >
         <input
-          
+          type="text"
