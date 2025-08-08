@@ -34,4 +34,4 @@ export function LatestPost() {
         <input
           type="text"
           placeholder="Title"
-          
+          value={name}
