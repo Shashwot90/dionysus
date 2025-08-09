@@ -35,3 +35,4 @@ export function LatestPost() {
           type="text"
           placeholder="Title"
           value={name}
+          onChange={(e) => setName(e.target.value)}
