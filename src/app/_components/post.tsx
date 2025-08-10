@@ -39,3 +39,4 @@ export function LatestPost() {
           className="w-full rounded-full px-4 py-2 text-black"
         />
         <button
+          type="submit"
