@@ -45,3 +45,7 @@ export function LatestPost() {
         >
           {createPost.isPending ? "Submitting..." : "Submit"}
         </button>
+      </form>
+    </div>
+  );
+}
