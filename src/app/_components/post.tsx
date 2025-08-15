@@ -47,3 +47,4 @@ export function LatestPost() {
         </button>
       </form>
     </div>
+  );
