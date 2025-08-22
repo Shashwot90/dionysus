@@ -4,3 +4,4 @@ import React from 'react'
 import { AppSidebar } from './dashboard/app-sidebar'
 type Props = {
     children: React.ReactNode
+}
