@@ -5,3 +5,5 @@ import { AppSidebar } from './dashboard/app-sidebar'
 type Props = {
     children: React.ReactNode
 }
+
+const SidebarLayout = ({children}: Props) => {
