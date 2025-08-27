@@ -15,3 +15,4 @@ const SidebarLayout = ({children}: Props) => {
                 {/* <SearchBar /> */}
                 <div className="ml-auto"></div>
                 <UserButton />
+            </div>
