@@ -16,3 +16,4 @@ const SidebarLayout = ({children}: Props) => {
                 <div className="ml-auto"></div>
                 <UserButton />
             </div>
+            <div className="h-4"></div>
