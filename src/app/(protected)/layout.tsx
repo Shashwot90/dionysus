@@ -17,3 +17,4 @@ const SidebarLayout = ({children}: Props) => {
                 <UserButton />
             </div>
             <div className="h-4"></div>
+            {/* main content */}
