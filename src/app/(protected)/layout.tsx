@@ -20,10 +20,3 @@ const SidebarLayout = ({children}: Props) => {
             {/* main content */}
             <div className="border-sidebar-border bg-sidebar border shadow rounded-md overflow-y-scroll h-[calc(100vh-6rem)] p-4">
                 {children}
-            </div>
-        </main>
-    </SidebarProvider>
-  )
-}
-
-export default SidebarLayout
