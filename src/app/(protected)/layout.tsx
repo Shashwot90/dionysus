@@ -22,8 +22,3 @@ const SidebarLayout = ({children}: Props) => {
                 {children}
             </div>
         </main>
-    </SidebarProvider>
-  )
-}
-
-export default SidebarLayout
