@@ -23,3 +23,4 @@ const SidebarLayout = ({children}: Props) => {
             </div>
         </main>
     </SidebarProvider>
+  )
