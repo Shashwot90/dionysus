@@ -11,3 +11,4 @@ export default clerkMiddleware(async (auth, request) => {
   }
 })
 
+export const config = {
