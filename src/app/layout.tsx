@@ -9,3 +9,4 @@ import { TRPCReactProvider } from "@/trpc/react";
 
 
 export const metadata: Metadata = {
+  title: "Dionysus",
