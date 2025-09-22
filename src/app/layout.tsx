@@ -24,3 +24,4 @@ export default function RootLayout({
           <TRPCReactProvider>{children}</TRPCReactProvider>
         </body>
       </html>
+    </ClerkProvider>
