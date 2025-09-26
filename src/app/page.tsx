@@ -9,5 +9,3 @@ export default async function Home() {
     <h1 className="text-red-600">Hello</h1>
     <Button>Click</Button>
     </>
-  );
-}
