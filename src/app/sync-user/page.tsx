@@ -7,3 +7,4 @@ const SyncUser =  async () => {
     const {userId} = await auth()
     if (!userId) {
         throw new Error('User not found')
+    }
