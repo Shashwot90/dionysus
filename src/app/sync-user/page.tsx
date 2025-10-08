@@ -19,18 +19,4 @@ const SyncUser =  async () => {
         },
         update: {
             imageUrl: user.imageUrl,
-            firstName: user.firstName,
-            lastName: user.lastName, 
-        },
-        create: {
-            id: userId,
-            emailAddress: user.emailAddresses[0]?.emailAddress ?? "",
-            imageUrl: user.imageUrl,
-            firstName: user.firstName,
-            lastName: user.lastName,
-        }
-    })
-  return  redirect('/dashboard')
-}
-
-export default SyncUser
+      
