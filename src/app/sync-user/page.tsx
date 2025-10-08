@@ -19,4 +19,5 @@ const SyncUser =  async () => {
         },
         update: {
             imageUrl: user.imageUrl,
-      
+            firstName: user.firstName,
+            
