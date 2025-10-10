@@ -21,3 +21,5 @@ const SyncUser =  async () => {
             imageUrl: user.imageUrl,
             firstName: user.firstName,
             lastName: user.lastName, 
+        },
+        
