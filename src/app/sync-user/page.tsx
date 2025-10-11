@@ -23,4 +23,5 @@ const SyncUser =  async () => {
             lastName: user.lastName, 
         },
         create: {
+            id: userId,
             
