@@ -25,4 +25,5 @@ const SyncUser =  async () => {
         create: {
             id: userId,
             emailAddress: user.emailAddresses[0]?.emailAddress ?? "",
+            imageUrl: user.imageUrl,
             
