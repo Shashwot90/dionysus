@@ -29,4 +29,5 @@ const SyncUser =  async () => {
             firstName: user.firstName,
             lastName: user.lastName,
         }
-    
+    })
+  
