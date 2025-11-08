@@ -10,3 +10,5 @@ const AlertDialog = AlertDialogPrimitive.Root
 
 const AlertDialogTrigger = AlertDialogPrimitive.Trigger
 
+const AlertDialogPortal = AlertDialogPrimitive.Portal
+
