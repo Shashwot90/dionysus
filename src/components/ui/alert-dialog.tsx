@@ -28,4 +28,4 @@ const AlertDialogOverlay = React.forwardRef<
 AlertDialogOverlay.displayName = AlertDialogPrimitive.Overlay.displayName
 
 const AlertDialogContent = React.forwardRef<
-  
+  React.ElementRef<typeof AlertDialogPrimitive.Content>,
