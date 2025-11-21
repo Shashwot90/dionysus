@@ -40,4 +40,4 @@ const AlertDialogContent = React.forwardRef<
         className
       )}
       {...props}
- 
+    />
