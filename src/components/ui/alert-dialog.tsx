@@ -53,3 +53,4 @@ const AlertDialogHeader = ({
     className={cn(
       "flex flex-col space-y-2 text-center sm:text-left",
       className
+    )}
