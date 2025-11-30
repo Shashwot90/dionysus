@@ -59,3 +59,4 @@ const AlertDialogHeader = ({
 )
 AlertDialogHeader.displayName = "AlertDialogHeader"
 
+const AlertDialogFooter = ({
