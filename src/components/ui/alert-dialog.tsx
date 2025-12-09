@@ -78,4 +78,5 @@ const AlertDialogTitle = React.forwardRef<
   React.ComponentPropsWithoutRef<typeof AlertDialogPrimitive.Title>
 >(({ className, ...props }, ref) => (
   <AlertDialogPrimitive.Title
- 
+    ref={ref}
+
