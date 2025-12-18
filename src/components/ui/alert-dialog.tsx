@@ -97,3 +97,5 @@ const AlertDialogDescription = React.forwardRef<
 ))
 AlertDialogDescription.displayName =
   AlertDialogPrimitive.Description.displayName
+
+const AlertDialogAction = React.forwardRef<
