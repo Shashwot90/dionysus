@@ -123,3 +123,4 @@ const AlertDialogCancel = React.forwardRef<
     )}
     {...props}
   />
+))
