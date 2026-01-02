@@ -130,3 +130,5 @@ AlertDialogCancel.displayName = AlertDialogPrimitive.Cancel.displayName
 export {
   AlertDialog,
   AlertDialogPortal,
+  AlertDialogOverlay,
+  
