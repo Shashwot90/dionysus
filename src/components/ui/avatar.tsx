@@ -38,3 +38,4 @@ const AvatarFallback = React.forwardRef<
   React.ComponentPropsWithoutRef<typeof AvatarPrimitive.Fallback>
 >(({ className, ...props }, ref) => (
   <AvatarPrimitive.Fallback
+    ref={ref}
