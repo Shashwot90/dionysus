@@ -44,3 +44,4 @@ const AvatarFallback = React.forwardRef<
       className
     )}
     {...props}
+  />
