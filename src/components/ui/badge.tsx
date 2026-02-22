@@ -8,4 +8,5 @@ const badgeVariants = cva(
   {
     variants: {
       variant: {
-        
+        default:
+
