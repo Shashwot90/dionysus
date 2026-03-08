@@ -7,4 +7,4 @@ import { cn } from "@/lib/utils"
 const Breadcrumb = React.forwardRef<
   HTMLElement,
   React.ComponentPropsWithoutRef<"nav"> & {
-  
+    separator?: React.ReactNode
