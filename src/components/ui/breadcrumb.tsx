@@ -24,3 +24,4 @@ const BreadcrumbList = React.forwardRef<
     )}
     {...props}
   />
+))
