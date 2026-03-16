@@ -32,4 +32,4 @@ const BreadcrumbItem = React.forwardRef<
   React.ComponentPropsWithoutRef<"li">
 >(({ className, ...props }, ref) => (
   <li
-    
+    ref={ref}
