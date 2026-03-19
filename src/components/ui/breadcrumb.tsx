@@ -37,3 +37,4 @@ const BreadcrumbItem = React.forwardRef<
     {...props}
   />
 ))
+BreadcrumbItem.displayName = "BreadcrumbItem"
