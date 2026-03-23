@@ -49,3 +49,5 @@ const BreadcrumbLink = React.forwardRef<
   const Comp = asChild ? Slot : "a"
 
   return (
+    <Comp
+      
