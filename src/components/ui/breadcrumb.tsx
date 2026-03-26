@@ -56,3 +56,4 @@ const BreadcrumbLink = React.forwardRef<
     />
   )
 })
+BreadcrumbLink.displayName = "BreadcrumbLink"
