@@ -66,3 +66,5 @@ const BreadcrumbPage = React.forwardRef<
     ref={ref}
     role="link"
     aria-disabled="true"
+    aria-current="page"
+    
