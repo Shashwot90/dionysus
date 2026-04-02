@@ -70,3 +70,5 @@ const BreadcrumbPage = React.forwardRef<
     className={cn("font-normal text-foreground", className)}
         {...props}
       />
+    ))
+    
