@@ -80,4 +80,4 @@ const BreadcrumbPage = React.forwardRef<
     }: React.ComponentProps<"li">) => (
       <li
         role="presentation"
-        
+        aria-hidden="true"
