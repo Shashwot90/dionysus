@@ -84,3 +84,5 @@ const BreadcrumbPage = React.forwardRef<
         className={cn("[&>svg]:w-3.5 [&>svg]:h-3.5", className)}
         {...props}
       >
+        {children ?? <ChevronRight />}
+      
