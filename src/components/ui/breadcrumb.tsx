@@ -88,3 +88,6 @@ const BreadcrumbPage = React.forwardRef<
       </li>
     )
     BreadcrumbSeparator.displayName = "BreadcrumbSeparator"
+    
+    const BreadcrumbEllipsis = ({
+     
