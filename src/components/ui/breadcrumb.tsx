@@ -95,3 +95,5 @@ const BreadcrumbPage = React.forwardRef<
     }: React.ComponentProps<"span">) => (
       <span
         role="presentation"
+        aria-hidden="true"
+        
