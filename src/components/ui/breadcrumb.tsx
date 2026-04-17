@@ -106,3 +106,4 @@ const BreadcrumbPage = React.forwardRef<
     BreadcrumbEllipsis.displayName = "BreadcrumbElipssis"
     
     export {
+      Breadcrumb,
