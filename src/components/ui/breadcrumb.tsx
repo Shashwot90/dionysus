@@ -110,3 +110,4 @@ const BreadcrumbPage = React.forwardRef<
       BreadcrumbList,
       BreadcrumbItem,
       BreadcrumbLink,
+      BreadcrumbPage,
