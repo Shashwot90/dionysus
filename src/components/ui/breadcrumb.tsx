@@ -112,3 +112,5 @@ const BreadcrumbPage = React.forwardRef<
       BreadcrumbLink,
       BreadcrumbPage,
       BreadcrumbSeparator,
+      BreadcrumbEllipsis,
+    }
