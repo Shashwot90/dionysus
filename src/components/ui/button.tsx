@@ -34,3 +34,5 @@ const buttonVariants = cva(
     },
   }
 )
+
+export interface ButtonProps
