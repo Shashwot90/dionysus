@@ -27,4 +27,4 @@ function Calendar({
         caption_label: "text-sm font-medium",
         nav: "space-x-1 flex items-center",
         nav_button: cn(
-        
+          buttonVariants({ variant: "outline" }),
