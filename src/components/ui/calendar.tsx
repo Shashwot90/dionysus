@@ -61,3 +61,6 @@ function Calendar({
         ...classNames,
       }}
       components={{
+        IconLeft: ({ className, ...props }) => (
+
+export { Calendar }
