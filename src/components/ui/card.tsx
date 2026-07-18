@@ -56,4 +56,4 @@ CardDescription.displayName = "CardDescription"
 
 const CardContent = React.forwardRef<
   HTMLDivElement,
-  
+  React.HTMLAttributes<HTMLDivElement>
