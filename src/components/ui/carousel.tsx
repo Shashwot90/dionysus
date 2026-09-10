@@ -104,4 +104,4 @@ const Carousel = React.forwardRef<
         return
       }
 
-      
+      setApi(api)
