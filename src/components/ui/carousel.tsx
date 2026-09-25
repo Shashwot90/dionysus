@@ -138,3 +138,4 @@ const Carousel = React.forwardRef<
                                                                           <div
         ref={ref}
                   onKeyDownCapture={handleKeyDown}
+                  className={cn("relative", className)}
