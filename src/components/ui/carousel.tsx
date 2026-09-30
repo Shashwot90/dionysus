@@ -148,7 +148,7 @@ const Carousel = React.forwardRef<
                                                         </CarouselContext.Provider>
                                                         )
                                                           }
-)
+                                                          )
 Carousel.displayName = "Carousel"
 
 const CarouselContent = React.forwardRef<
