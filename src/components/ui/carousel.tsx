@@ -154,7 +154,7 @@ const Carousel = React.forwardRef<
 const CarouselContent = React.forwardRef<
   HTMLDivElement,
    React.HTMLAttributes<HTMLDivElement>
->(({ className, ...props }, ref) => {
+   >(({ className, ...props }, ref) => {
   const { carouselRef, orientation } = useCarousel()
 
   return (
