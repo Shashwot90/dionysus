@@ -162,3 +162,4 @@ const CarouselContent = React.forwardRef<
           <div
                   ref={ref}
                   className={cn(
+                                                  "flex",
