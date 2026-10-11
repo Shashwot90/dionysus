@@ -169,3 +169,4 @@ const CarouselContent = React.forwardRef<
         {...props}
               />
                   </div>
+                    )
