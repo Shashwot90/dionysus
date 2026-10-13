@@ -175,3 +175,4 @@ const CarouselContent = React.forwardRef<
                     
 const CarouselItem = React.forwardRef<
   HTMLDivElement,
+    React.HTMLAttributes<HTMLDivElement>
