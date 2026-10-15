@@ -181,7 +181,7 @@ const CarouselItem = React.forwardRef<
   
   return (
         <div
-      ref={ref}
+        ref={ref}
       role="group"
       aria-roledescription="slide"
       className={cn(
