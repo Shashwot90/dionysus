@@ -191,7 +191,7 @@ const CarouselItem = React.forwardRef<
                                )}
                                      {...props}
                                          />
-  )
+                                           )
 })
 CarouselItem.displayName = "CarouselItem"
 
