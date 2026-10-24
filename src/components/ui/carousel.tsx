@@ -200,7 +200,7 @@ const CarouselPrevious = React.forwardRef<
    React.ComponentProps<typeof Button>
    >(({ className, variant = "outline", size = "icon", ...props }, ref) => {
       const { orientation, scrollPrev, canScrollPrev } = useCarousel()
-
+      
   return (
     <Button
       ref={ref}
