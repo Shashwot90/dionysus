@@ -246,3 +246,4 @@ const CarouselNext = React.forwardRef<
                                    onClick={scrollNext}
                                    {...props}
                                        >
+                                              <ArrowRight className="h-4 w-4" />
