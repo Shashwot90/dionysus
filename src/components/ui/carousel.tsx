@@ -255,9 +255,4 @@ const CarouselNext = React.forwardRef<
                                                         
 export {
     type CarouselApi,
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselPrevious,
-  CarouselNext,
-}
+      Carousel,
