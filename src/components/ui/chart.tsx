@@ -30,3 +30,5 @@ function useChart() {
     
   if (!context) {
         throw new Error("useChart must be used within a <ChartContainer />")
+        
+  }
