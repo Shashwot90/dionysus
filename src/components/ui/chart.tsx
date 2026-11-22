@@ -40,6 +40,7 @@ const ChartContainer = React.forwardRef<
 
   HTMLDivElement,
     React.ComponentProps<"div"> & {
+      
     config: ChartConfig
     children: React.ComponentProps<
       typeof RechartsPrimitive.ResponsiveContainer
